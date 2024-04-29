@@ -1,0 +1,7 @@
+.footer{
+    display: flow-root;
+    text-align: center;
+    color: darkslateblue;
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: rgb(17, 102, 151);
+}
